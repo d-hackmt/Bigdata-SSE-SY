@@ -5,4 +5,6 @@
 
 ---
 
-Nosql databasess - https://nosqldbs.netlify.app/
+[Nosql databasess](https://nosqldbs.netlify.app/)
+
+[What we did in classroom](https://drive.google.com/drive/folders/15jKIPZqdr9o90aRcdfvNJBhCY1un6DMj?usp=sharing)
